@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aamir-Mallick
-- 👀 I’m interested in intrested in react.js, node.js mongodb
+- 👀 I’m interested in react.js, node.js mongodb
 - 🌱 I’m currently learning Node.js and Express.js
-- 💞️ I’m looking to collaborate on react.js
+- 💞️ I’m looking forward to collaborate on react.js
 - 📫 How to reach through Email id aamirmallick71@gmail.com
 
 <!---
